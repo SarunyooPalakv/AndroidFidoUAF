@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">fido uaf 1.1  etda</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_purchase">Purchase</string>
+    <string name="action_dereg">De-Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_deletekey_short">Delete key</string>
+    <string name="action_deleteall_short">Delete All</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register_fido">start</string>
+    <string name="button_register_fido">Click Start for Register Fido</string>
+    <string name="lbl_register_fido">Click Start to Register Fido</string>
+    <string name="lbl_Authen_fido">Click Sign in to Authen Fido</string>
+    <string name="lbl_Dereg_fido">Click Delete Key to Deregister Fido</string>
+    <string name="lbl_login_rp_application">Login RP Application</string>
+    <string name="lbl_purchase_rp_application">*Click Purchase to Fido Authentication</string>
+    <string name="lbl_rp_application">RP Application</string>
+    <string name="lbl_rp_pleasewait">Please wait …</string>
+    <string name="lbl_rp_Success">SUCCESS …</string>
+    <string name="lbl_rp_Failed">FAILED …</string>
+    <string name="checkSuccess">img_chk_success</string>
+</resources>
